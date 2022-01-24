@@ -1,17 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1", "price": 458},
-    { "id": 2, "title": "Post 2", "price": 845},
-    { "id": 3, "title": "Post 3", "price":241},
-    { "id": 4, "title": "Post 4", "price":365},
-    { "id": 5, "title": "Post 5", "price": 120},
-    { "id": 6, "title": "Post 6", "price": 545}
+  "category": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun"
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": [
+    75,
+    42,
+    58,
+    45,
+    41,
+    58
+  ]
 }
