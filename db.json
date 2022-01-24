@@ -1,21 +1,22 @@
 {
-  "category": [
-    "Jan",
-    "Feb",
-    "Mar",
-    "Apr",
-    "May",
-    "Jun"
-  ],
-  "data": [
-    75,
-    42,
-    58,
-    45,
-    41,
-    58
-  ]
-  ,
+  "oldpost":{
+    "category": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun"
+    ],
+    "data": [
+      75,
+      42,
+      58,
+      45,
+      41,
+      58
+    ]
+  },
   "newpost":{
     "category": [
       "Jul",
